@@ -44,3 +44,12 @@ e.	Análisis de Distribución y Análisis de correlación de las variables
 4.	Reportar los resultados de cada modelo (Accuracy. Recall, Precision y F-score). Incluir matriz de confusión. Seleccionar el mejor modelo en base al análisis de las métricas.
 
 5.	Este punto es opcional: Incluir algún gráfico de Explainability.
+
+----
+
+## 📌 Notas 
+
+Este trabajo fué realizado por Carolina Guzman, Cecilia Manoni, Agustina Ghelfi y Noelia Ferrero, en el marco de la Diplomatura Superior en Data Science Aplicada. 
+En el siguiente [video](https://youtu.be/6b4FnPbQ_tE/) se puede acceder a la presentacion destinada al Negocio, es decir, con un enfoque más orientado al nivel ejecutivo
+
+✨
